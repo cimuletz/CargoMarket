@@ -1,0 +1,15 @@
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\obj\Debug\net5.0\BursaTransport.DAL.csproj.AssemblyReference.cache
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\obj\Debug\net5.0\BursaTransport.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\obj\Debug\net5.0\BursaTransport.DAL.AssemblyInfoInputs.cache
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\obj\Debug\net5.0\BursaTransport.DAL.AssemblyInfo.cs
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\obj\Debug\net5.0\BursaTransport.DAL.csproj.CoreCompileInputs.cache
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\bin\Debug\net5.0\BursaTransport.DAL.deps.json
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\bin\Debug\net5.0\BursaTransport.DAL.runtimeconfig.json
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\bin\Debug\net5.0\BursaTransport.DAL.runtimeconfig.dev.json
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\bin\Debug\net5.0\BursaTransport.DAL.dll
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\bin\Debug\net5.0\ref\BursaTransport.DAL.dll
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\bin\Debug\net5.0\BursaTransport.DAL.pdb
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\obj\Debug\net5.0\BursaTransport.DAL.dll
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\obj\Debug\net5.0\ref\BursaTransport.DAL.dll
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\obj\Debug\net5.0\BursaTransport.DAL.pdb
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.DAL\obj\Debug\net5.0\BursaTransport.DAL.genruntimeconfig.cache

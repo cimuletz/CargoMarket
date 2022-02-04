@@ -1,0 +1,15 @@
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\obj\Debug\net5.0\BursaTransport.BLL.csproj.AssemblyReference.cache
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\obj\Debug\net5.0\BursaTransport.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\obj\Debug\net5.0\BursaTransport.BLL.AssemblyInfoInputs.cache
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\obj\Debug\net5.0\BursaTransport.BLL.AssemblyInfo.cs
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\obj\Debug\net5.0\BursaTransport.BLL.csproj.CoreCompileInputs.cache
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\bin\Debug\net5.0\BursaTransport.BLL.deps.json
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\bin\Debug\net5.0\BursaTransport.BLL.dll
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\bin\Debug\net5.0\ref\BursaTransport.BLL.dll
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\bin\Debug\net5.0\BursaTransport.BLL.pdb
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\bin\Debug\net5.0\BursaTransport.DAL.dll
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\bin\Debug\net5.0\BursaTransport.DAL.pdb
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\obj\Debug\net5.0\BursaTransport.BLL.csproj.CopyComplete
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\obj\Debug\net5.0\BursaTransport.BLL.dll
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\obj\Debug\net5.0\ref\BursaTransport.BLL.dll
+C:\Users\seraf\source\repos\BursaTransport\BursaTransport.BLL\obj\Debug\net5.0\BursaTransport.BLL.pdb
